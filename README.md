@@ -11,7 +11,7 @@
 
 <p style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schalkez&show_icons=true&locale=en&layout=compact" alt="schalkez" /></p>
 
-<p style="display:inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schalkez&show_icons=true&locale=en" alt="schalkez" /></p>
+<p style="display:inline-block; text-align:center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schalkez&show_icons=true&locale=en" alt="schalkez" /></p>
 
 
 <!---
