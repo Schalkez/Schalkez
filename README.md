@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Schalkez</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
-<img align="center" alt="Coding" width="600px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 
 
 - 🌱 I’m currently learning **Reactjs**
