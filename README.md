@@ -14,11 +14,9 @@
 </div>
 
 
-<div style="display: flex; margin: 0 auto"> 
-  <span style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=schalkez&show_icons=true&locale=en&layout=compact" alt="schalkez" /></span>
+<span style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=schalkez&show_icons=true&locale=en&layout=compact" alt="schalkez" /></span>
 
-  <span style="display: inline-block;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=schalkez&show_icons=true&locale=en" alt="schalkez" /></span>
-</div>
+<span style="display: inline-block;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=schalkez&show_icons=true&locale=en" alt="schalkez" /></span>
 
 
 
