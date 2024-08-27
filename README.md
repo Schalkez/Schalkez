@@ -1,7 +1,7 @@
 # Hi 👋, I'm Schalkez
-## A frontend developer from Vietnam
+## A software developer from Vietnam
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning web development
 - 📫 How to reach me **mynameishieenf@gmail.com**
 
 ## Technologies I Work With:
