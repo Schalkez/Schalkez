@@ -12,9 +12,6 @@
 <span><img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled Components logo" title="Styled Components" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=0170FE" alt="Ant Design logo" title="Ant Design" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 <span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
@@ -34,9 +31,14 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FBF0DF" alt="Bun logo" title="Bun" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Google%20Cloud-282C34?logo=google-cloud&logoColor=4285F4" alt="GCP logo" title="Google Cloud Platform" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Jotai-282C34?logo=jotai&logoColor=000000" alt="Jotai logo" title="Jotai" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Zustand-282C34?logo=zustand&logoColor=000000" alt="Zustand logo" title="Zustand" height="25" /></span>
 
 <br>
+
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
